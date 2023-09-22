@@ -12,5 +12,6 @@ input.setAttribute('type','text')
 const button = document.createElement('button')
 button.textContent = 'Add'
 button.addEventListener('click', ()=> {
-    console.log('clicked', input.value);
+    console.log('clicked', input.value); x2 'clicked' | 'dsdddd' | 'clicked' | 'dsdddd'
+
 })
