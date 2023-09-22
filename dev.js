@@ -3,5 +3,3 @@ const app = document.querySelector('#app')
 const list = document.createElement('div')
 list.classList.add('list-container')
 
-const form =  document.createElement('div')
-form.classList.add('form-container')
